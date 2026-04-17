@@ -25,6 +25,9 @@ A personal portfolio site for **Mohamed Ahamed Assani** built from the **iPortfo
 - **Animated skill progress bars** and portfolio lightbox    
 - **Accessibility basics**: progress bars including `aria-valuenow`; images including `alt` attributes
 
+- ## Chatbot
+- The chatbot can chat automatically based on data and informations.
+
 ## Quick Start
 
 ### Clone the repository
